@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.center-box {
+    background-color: #6591ed;
+}
+
+.center-item {
+    display: flex;
+    padding-bottom: 20px;
+}
+
+
+ul {
+    display: inline-flex;
+    list-style-type: none;
+
+}
+
+a { 
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+    -ms-flex-item-align: stretch;
+}
+
+img {
+    width: 70px;
+    padding-top: 20px;
+}
+
+h1 {
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    font-size: 22px;
+
+}
